@@ -1,3 +1,3 @@
 ---
-title: Welcome to my first blog blog!
+title: Welcome to my first blog on Pages!
 ---
